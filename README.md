@@ -9,7 +9,8 @@ Türkiye'deki embedded software mülakat süreçlerine hazırlık için hazırla
 | [C Programlama](./c-programlama/) | Pointer, volatile, bitwise, bellek yönetimi |
 | [Donanım](./donanim/) | I2C, SPI, UART, Interrupt, DMA |
 | [RTOS](./rtos/) | Görev yönetimi, senkronizasyon, deadlock |
-| [Kod Egzersizleri](./kod-egzersizleri/) | Circular buffer, debounce, driver yazımı |
+| [Kod Egzersizleri](./kod-egzersizleri/) | Circular buffer, debounce, PID, hareketli ortalama |
+| [Sektöre Göre Sorular](./turk-sirket-sorulari.md) | Savunma, tüketici elektroniği, IoT, kritik sistemler |
 
 ## Zorluk Seviyeleri
 
